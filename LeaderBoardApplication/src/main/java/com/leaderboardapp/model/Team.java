@@ -1,15 +1,12 @@
 package com.leaderboardapp.model;
 
-import java.math.BigInteger;
 
-import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Document(collection="team")
 public class Team {
-//@Id
-//private int id;
+
 @Id
 private String _id;
 public String get_id() {
