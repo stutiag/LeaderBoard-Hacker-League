@@ -23,12 +23,16 @@ checkedTeam:Team;
   isPlayMatch=false;
   flag=0;
   searchtext:string;
-  //selectedTeams:Team[]=[];
+
+
+
+
   constructor(private _teamService:TeamService){
 this.selectedTeams=new Set<any>();
   }
   ngOnInit()
   {
+    
 this._teamService.getTeams().subscribe(data=>{
   this.teams=data;
   console.log(data);
@@ -49,7 +53,6 @@ this.isMatch=true;
   addToTable()
   {
     console.log(this.selectedTeam);
-    //var it=this.selectedTeams.values();
     for(let team of Array.from(this.selectedTeams.values()))
     {
       console.log(team._id);
@@ -66,7 +69,6 @@ this.selectedTeams.add(this.selectedTeam);
   console.log(this.selectedTeams);
 }
 this.flag=0;
-//console.log(this.selectedTeams.has(this.selectedTeam));
   }
    changeHandler(checkedTeam,isChecked:boolean)
    {
@@ -110,17 +112,16 @@ isWin(winId:string,loseId:string)
 this._teamService.matchWin(this.playMatchPair).subscribe(res=>{
   console.log(res);
 })
+location.reload();
 }
-lose()
-{
 
-}
 tie()
 {
 this.playMatchPair.tie=true;
 this._teamService.matchWin(this.playMatchPair).subscribe(res=>{
   console.log(res);
 })
+location.reload();
 }
 
 

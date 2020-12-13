@@ -5,22 +5,18 @@
   </head>
 
   <body>
-    <!--<div>
-      <input type="text" placeholder="Search" [(ngModel)]="searchtext">
-    </div>-->
-    <button (click)="match()">Begin Match</button>
+    <div class="jumbotron"><h1 style="text-decoration: aliceblue dashed ;color: purple;;text-align: center;">Hacker Premier League</h1></div>
+    <button (click)="match()" class="btn btn-info">Begin Match</button>&nbsp;
     <select [(ngModel)]="selectedTeam" (change)="addToTable()">
       <option selected disabled>Choose here to add team to below table</option>
       <option *ngFor="let team of teams" [ngValue]="team">{{team.team_name}}</option>
   
   </select>
-  {{selectedTeam.team_name}}
-  
     <table class="table table-striped">
 <caption></caption>
 <thead>
   <tr>
-<th id="">Check</th>
+<th id="" *ngIf=isMatch>Check</th>
 <th id="">Position</th>
 <th id="">Team Name</th>
 <th id="">Wins</th>
@@ -31,7 +27,7 @@
 </tr>
 </thead>
 <tbody>
-<tr *ngFor="let team of selectedTeams | paginate: {id:'listing_pagination',itemsPerPage:5,currentPage:p};let i = index">
+<tr *ngFor="let team of selectedTeams ;let i = index">
   <td class="text-center" *ngIf=isMatch> 
     <input type="checkbox"  ngModel (ngModelChange)="changeHandler(team,$event)">
 </td>
@@ -44,21 +40,20 @@
   <td>{{team.score}}</td>
 </tr>
 </tbody>
-<pagination-controls id="listing_pagination" maxSize="5" directionLinks="true" (pageChange)="p = $event"></pagination-controls>
     </table>
     <div *ngIf=isMatch>
-      <button *ngIf=checkWin (click)="playMatch()">PlayMatch</button>
+      <button *ngIf=checkWin (click)="playMatch()" class="btn btn-info">PlayMatch</button>
     </div>
     <div *ngIf=isPlayMatch>
 
       <div>
-        {{checkedTeams[0].team_name}}<button (click)="isWin(checkedTeams[0]._id,checkedTeams[1]._id)">WIN</button>
+        {{checkedTeams[0].team_name}}&nbsp;<button class="btn btn-success" (click)="isWin(checkedTeams[0]._id,checkedTeams[1]._id)">WIN</button>
       </div>
       <div>
-        <button (click)=tie()>TIE</button>
+        &nbsp;<button (click)=tie() class="btn btn-warning">TIE</button>
       </div>
       <div>
-        {{checkedTeams[1].team_name}}<button (click)="isWin(checkedTeams[1]._id,checkedTeams[0]._id)">WIN</button>
+        {{checkedTeams[1].team_name}}&nbsp;<button class="btn btn-success" (click)="isWin(checkedTeams[1]._id,checkedTeams[0]._id)">WIN</button>
       </div>
 
     </div>
