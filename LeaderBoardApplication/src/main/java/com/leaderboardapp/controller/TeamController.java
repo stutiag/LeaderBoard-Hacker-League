@@ -4,8 +4,8 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.mongodb.core.query.Criteria;
-import org.springframework.data.mongodb.core.query.Query;
+import org.springframework.data.domain.Sort;
+
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -35,12 +35,14 @@ public List<Team> getTeams()
 public List<Team> getTeamsPlayed()
 {
 	
+	Sort sort = Sort.by(Sort.Order.desc("score"));
 
-	return teamRepository.findTeamsPlayed();
+
+	return teamRepository.findTeamsPlayed(sort);
 }
 
 @GetMapping
-List<Team> search(@PathVariable(value="query") String query)
+public List<Team> search(@PathVariable(value="query") String query)
 {
 	return teamRepository.search(query);
 }
@@ -55,7 +57,7 @@ public ResponseEntity<String> playMatch(@RequestBody MatchPair matchPair) {
 	Team tt1=null,tt2=null;
 
 
-	int one,two,oloss,owin,tloss,twin,oties,tties;
+	int one,two,tloss,twin,oties,sties;
 	Optional<Team> t1=teamRepository.findById(oid);
 	Optional<Team> t2=teamRepository.findById(tid);	
 	System.out.println(matchPair.isTie());
@@ -70,7 +72,9 @@ public ResponseEntity<String> playMatch(@RequestBody MatchPair matchPair) {
 		{
 			tt2=t2.get();
 		}
+		
 		one=tt1.getScore();
+
 		System.out.println(one);
 
 		two=tt2.getScore();
@@ -79,8 +83,8 @@ public ResponseEntity<String> playMatch(@RequestBody MatchPair matchPair) {
 		oties=tt1.getTies();
 		System.out.println(oties);
 
-		tties=tt2.getTies();
-		System.out.println(tties);
+		sties=tt2.getTies();
+		System.out.println(sties);
 
 		tt1.setScore(one+1);
 		one=tt1.getScore();
@@ -89,7 +93,7 @@ public ResponseEntity<String> playMatch(@RequestBody MatchPair matchPair) {
 		tt1.setTies(oties+1);
 teamRepository.save(tt1);
 		tt2.setScore(two+1);
-		tt2.setTies(tties+1);
+		tt2.setTies(sties+1);
 		teamRepository.save(tt2);
 		System.out.println("object one"+tt1.toString());
 		System.out.println("object one"+tt2.toString());
@@ -105,8 +109,14 @@ return ResponseEntity.ok().body("tied");
 		String loseId=matchPair.getLoseId();
 		Optional<Team> winT=teamRepository.findById(winId);
 		Optional<Team> loseT=teamRepository.findById(loseId);
+		if(winT.isPresent())
+		{
 		tt1=winT.get();
+		}
+		if(loseT.isPresent())
+		{
 		tt2=loseT.get();
+		}
 		System.out.println(tt1.toString());
 		System.out.println(tt2.toString());
 
