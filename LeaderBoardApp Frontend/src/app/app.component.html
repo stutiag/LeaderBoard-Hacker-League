@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title>LeaderBoard|Home</title>
+  </head>
+
+  <body>
+    <!--<div>
+      <input type="text" placeholder="Search" [(ngModel)]="searchtext">
+    </div>-->
+    <button (click)="match()">Begin Match</button>
+    <select [(ngModel)]="selectedTeam" (change)="addToTable()">
+      <option selected disabled>Choose here to add team to below table</option>
+      <option *ngFor="let team of teams" [ngValue]="team">{{team.team_name}}</option>
+  
+  </select>
+  {{selectedTeam.team_name}}
+  
+    <table class="table table-striped">
+<caption></caption>
+<thead>
+  <tr>
+<th id="">Check</th>
+<th id="">Position</th>
+<th id="">Team Name</th>
+<th id="">Wins</th>
+<th id="">Losses</th>
+<th id="">Ties</th>
+
+<th id="">Score</th>
+</tr>
+</thead>
+<tbody>
+<tr *ngFor="let team of selectedTeams | paginate: {id:'listing_pagination',itemsPerPage:5,currentPage:p};let i = index">
+  <td class="text-center" *ngIf=isMatch> 
+    <input type="checkbox"  ngModel (ngModelChange)="changeHandler(team,$event)">
+</td>
+  <td>{{i+1}}</td>
+  <td>{{team.team_name}}</td>
+  <td>{{team.wins}}</td>
+  <td>{{team.losses}}</td>
+  <td>{{team.ties}}</td>
+
+  <td>{{team.score}}</td>
+</tr>
+</tbody>
+<pagination-controls id="listing_pagination" maxSize="5" directionLinks="true" (pageChange)="p = $event"></pagination-controls>
+    </table>
+    <div *ngIf=isMatch>
+      <button *ngIf=checkWin (click)="playMatch()">PlayMatch</button>
+    </div>
+    <div *ngIf=isPlayMatch>
+
+      <div>
+        {{checkedTeams[0].team_name}}<button (click)="isWin(checkedTeams[0]._id,checkedTeams[1]._id)">WIN</button>
+      </div>
+      <div>
+        <button (click)=tie()>TIE</button>
+      </div>
+      <div>
+        {{checkedTeams[1].team_name}}<button (click)="isWin(checkedTeams[1]._id,checkedTeams[0]._id)">WIN</button>
+      </div>
+
+    </div>
+
+   
+  </body>
+
+</html>
