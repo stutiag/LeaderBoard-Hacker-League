@@ -1,0 +1,4508 @@
+[{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aa8"
+  },
+  "team_name": "Konklux",
+  "wins": 0,
+  "losses": 0,
+  "score": 1,
+  "ties": 1,
+  "_class": "com.leaderboardapp.model.Team"
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aa9"
+  },
+  "team_name": "Stronghold",
+  "wins": 2,
+  "losses": 0,
+  "score": 7,
+  "ties": 1,
+  "_class": "com.leaderboardapp.model.Team"
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aaa"
+  },
+  "team_name": "Toughjoyfax",
+  "wins": 0,
+  "losses": 2,
+  "score": 0,
+  "ties": 0,
+  "_class": "com.leaderboardapp.model.Team"
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aab"
+  },
+  "team_name": "Cardify",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aac"
+  },
+  "team_name": "Bytecard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aad"
+  },
+  "team_name": "Span",
+  "wins": 0,
+  "losses": 0,
+  "score": 2,
+  "ties": 2,
+  "_class": "com.leaderboardapp.model.Team"
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aae"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 1,
+  "losses": 0,
+  "score": 3,
+  "ties": 0,
+  "_class": "com.leaderboardapp.model.Team"
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aaf"
+  },
+  "team_name": "Sub-Ex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ab0"
+  },
+  "team_name": "Ventosanzap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ab1"
+  },
+  "team_name": "Rank",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ab2"
+  },
+  "team_name": "Veribet",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ab3"
+  },
+  "team_name": "Pannier",
+  "wins": 1,
+  "losses": 0,
+  "score": 4,
+  "ties": 1,
+  "_class": "com.leaderboardapp.model.Team"
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ab4"
+  },
+  "team_name": "Cardify",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ab5"
+  },
+  "team_name": "Alphazap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ab6"
+  },
+  "team_name": "Bigtax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ab7"
+  },
+  "team_name": "Stringtough",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ab8"
+  },
+  "team_name": "Gembucket",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ab9"
+  },
+  "team_name": "Stronghold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aba"
+  },
+  "team_name": "Flexidy",
+  "wins": 0,
+  "losses": 2,
+  "score": 1,
+  "ties": 1,
+  "_class": "com.leaderboardapp.model.Team"
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621abb"
+  },
+  "team_name": "Tampflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621abc"
+  },
+  "team_name": "Sub-Ex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621abd"
+  },
+  "team_name": "Sonsing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621abe"
+  },
+  "team_name": "Sonair",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621abf"
+  },
+  "team_name": "Trippledex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ac0"
+  },
+  "team_name": "Bitwolf",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ac1"
+  },
+  "team_name": "Keylex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ac2"
+  },
+  "team_name": "Fix San",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ac3"
+  },
+  "team_name": "Daltfresh",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ac4"
+  },
+  "team_name": "Alpha",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ac5"
+  },
+  "team_name": "Home Ing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ac6"
+  },
+  "team_name": "Cardify",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ac7"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ac8"
+  },
+  "team_name": "Ventosanzap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ac9"
+  },
+  "team_name": "Kanlam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aca"
+  },
+  "team_name": "Konklux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621acb"
+  },
+  "team_name": "Bamity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621acc"
+  },
+  "team_name": "Fintone",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621acd"
+  },
+  "team_name": "Overhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ace"
+  },
+  "team_name": "Tresom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621acf"
+  },
+  "team_name": "Andalax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ad0"
+  },
+  "team_name": "Tampflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ad1"
+  },
+  "team_name": "Tin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ad2"
+  },
+  "team_name": "Transcof",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ad3"
+  },
+  "team_name": "Andalax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ad4"
+  },
+  "team_name": "Solarbreeze",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ad5"
+  },
+  "team_name": "Zoolab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ad6"
+  },
+  "team_name": "Redhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ad7"
+  },
+  "team_name": "Domainer",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ad8"
+  },
+  "team_name": "Viva",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ad9"
+  },
+  "team_name": "Daltfresh",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ada"
+  },
+  "team_name": "Treeflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621adb"
+  },
+  "team_name": "Alpha",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621adc"
+  },
+  "team_name": "Zoolab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621add"
+  },
+  "team_name": "Y-find",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ade"
+  },
+  "team_name": "Opela",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621adf"
+  },
+  "team_name": "Prodder",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ae0"
+  },
+  "team_name": "Andalax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ae1"
+  },
+  "team_name": "Overhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ae2"
+  },
+  "team_name": "Otcom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ae3"
+  },
+  "team_name": "Sonair",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ae4"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ae5"
+  },
+  "team_name": "Biodex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ae6"
+  },
+  "team_name": "Zoolab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ae7"
+  },
+  "team_name": "Sonsing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ae8"
+  },
+  "team_name": "Redhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ae9"
+  },
+  "team_name": "Overhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aea"
+  },
+  "team_name": "Bytecard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aeb"
+  },
+  "team_name": "Y-Solowarm",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aec"
+  },
+  "team_name": "Tres-Zap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aed"
+  },
+  "team_name": "Lotlux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aee"
+  },
+  "team_name": "Prodder",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aef"
+  },
+  "team_name": "Cookley",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621af0"
+  },
+  "team_name": "Sub-Ex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621af1"
+  },
+  "team_name": "Hatity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621af2"
+  },
+  "team_name": "Redhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621af3"
+  },
+  "team_name": "Zontrax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621af4"
+  },
+  "team_name": "Ventosanzap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621af5"
+  },
+  "team_name": "Opela",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621af6"
+  },
+  "team_name": "Andalax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621af7"
+  },
+  "team_name": "Zathin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621af8"
+  },
+  "team_name": "Toughjoyfax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621af9"
+  },
+  "team_name": "Namfix",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621afa"
+  },
+  "team_name": "Voyatouch",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621afb"
+  },
+  "team_name": "Domainer",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621afc"
+  },
+  "team_name": "Alphazap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621afd"
+  },
+  "team_name": "Wrapsafe",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621afe"
+  },
+  "team_name": "Ventosanzap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621aff"
+  },
+  "team_name": "Lotstring",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b00"
+  },
+  "team_name": "Regrant",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b01"
+  },
+  "team_name": "Viva",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b02"
+  },
+  "team_name": "Tin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b03"
+  },
+  "team_name": "Flexidy",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b04"
+  },
+  "team_name": "Sonair",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b05"
+  },
+  "team_name": "Zontrax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b06"
+  },
+  "team_name": "Alpha",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b07"
+  },
+  "team_name": "Veribet",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b08"
+  },
+  "team_name": "Biodex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b09"
+  },
+  "team_name": "Y-find",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b0a"
+  },
+  "team_name": "Flowdesk",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b0b"
+  },
+  "team_name": "Tempsoft",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b0c"
+  },
+  "team_name": "Solarbreeze",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b0d"
+  },
+  "team_name": "Fixflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b0e"
+  },
+  "team_name": "Latlux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b0f"
+  },
+  "team_name": "Transcof",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b10"
+  },
+  "team_name": "Asoka",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b11"
+  },
+  "team_name": "Keylex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b12"
+  },
+  "team_name": "Bitwolf",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b13"
+  },
+  "team_name": "Stronghold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b14"
+  },
+  "team_name": "Konklux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b15"
+  },
+  "team_name": "Wrapsafe",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b16"
+  },
+  "team_name": "Lotstring",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b17"
+  },
+  "team_name": "Tres-Zap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b18"
+  },
+  "team_name": "Tampflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b19"
+  },
+  "team_name": "Konklux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b1a"
+  },
+  "team_name": "Mat Lam Tam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b1b"
+  },
+  "team_name": "Solarbreeze",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b1c"
+  },
+  "team_name": "Sub-Ex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b1d"
+  },
+  "team_name": "Vagram",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b1e"
+  },
+  "team_name": "Solarbreeze",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b1f"
+  },
+  "team_name": "Cardify",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b20"
+  },
+  "team_name": "Otcom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b21"
+  },
+  "team_name": "Overhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b22"
+  },
+  "team_name": "Zoolab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b23"
+  },
+  "team_name": "Span",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b24"
+  },
+  "team_name": "Tres-Zap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b25"
+  },
+  "team_name": "Stringtough",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b26"
+  },
+  "team_name": "Fixflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b27"
+  },
+  "team_name": "Hatity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b28"
+  },
+  "team_name": "Bigtax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b29"
+  },
+  "team_name": "Cookley",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b2a"
+  },
+  "team_name": "Ventosanzap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b2b"
+  },
+  "team_name": "Subin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b2c"
+  },
+  "team_name": "Holdlamis",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b2d"
+  },
+  "team_name": "Veribet",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b2e"
+  },
+  "team_name": "Bitwolf",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b2f"
+  },
+  "team_name": "Kanlam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b30"
+  },
+  "team_name": "Konklab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b31"
+  },
+  "team_name": "Subin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b32"
+  },
+  "team_name": "Span",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b33"
+  },
+  "team_name": "Kanlam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b34"
+  },
+  "team_name": "Sonair",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b35"
+  },
+  "team_name": "Zamit",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b36"
+  },
+  "team_name": "Latlux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b37"
+  },
+  "team_name": "Overhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b38"
+  },
+  "team_name": "Biodex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b39"
+  },
+  "team_name": "Stringtough",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b3a"
+  },
+  "team_name": "Voltsillam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b3b"
+  },
+  "team_name": "Pannier",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b3c"
+  },
+  "team_name": "Y-find",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b3d"
+  },
+  "team_name": "Holdlamis",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b3e"
+  },
+  "team_name": "Flexidy",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b3f"
+  },
+  "team_name": "Biodex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b40"
+  },
+  "team_name": "Zamit",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b41"
+  },
+  "team_name": "Alpha",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b42"
+  },
+  "team_name": "Ronstring",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b43"
+  },
+  "team_name": "Zamit",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b44"
+  },
+  "team_name": "Tempsoft",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b45"
+  },
+  "team_name": "Zontrax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b46"
+  },
+  "team_name": "Lotstring",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b47"
+  },
+  "team_name": "Home Ing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b48"
+  },
+  "team_name": "Gembucket",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b49"
+  },
+  "team_name": "Fix San",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b4a"
+  },
+  "team_name": "Regrant",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b4b"
+  },
+  "team_name": "Opela",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b4c"
+  },
+  "team_name": "Lotlux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b4d"
+  },
+  "team_name": "Asoka",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b4e"
+  },
+  "team_name": "Biodex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b4f"
+  },
+  "team_name": "Stronghold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b50"
+  },
+  "team_name": "Treeflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b51"
+  },
+  "team_name": "Fixflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b52"
+  },
+  "team_name": "Kanlam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b53"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b54"
+  },
+  "team_name": "Vagram",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b55"
+  },
+  "team_name": "Konklux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b56"
+  },
+  "team_name": "Hatity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b57"
+  },
+  "team_name": "Sub-Ex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b58"
+  },
+  "team_name": "Job",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b59"
+  },
+  "team_name": "Hatity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b5a"
+  },
+  "team_name": "Quo Lux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b5b"
+  },
+  "team_name": "Voyatouch",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b5c"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b5d"
+  },
+  "team_name": "Holdlamis",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b5e"
+  },
+  "team_name": "Lotstring",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b5f"
+  },
+  "team_name": "Y-find",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b60"
+  },
+  "team_name": "Konklab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b61"
+  },
+  "team_name": "Duobam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b62"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b63"
+  },
+  "team_name": "Fintone",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b64"
+  },
+  "team_name": "Bitchip",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b65"
+  },
+  "team_name": "Cardguard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b66"
+  },
+  "team_name": "Kanlam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b67"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b68"
+  },
+  "team_name": "Konklux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b69"
+  },
+  "team_name": "Ronstring",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b6a"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b6b"
+  },
+  "team_name": "Treeflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b6c"
+  },
+  "team_name": "Temp",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b6d"
+  },
+  "team_name": "Quo Lux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b6e"
+  },
+  "team_name": "Redhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b6f"
+  },
+  "team_name": "Fix San",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b70"
+  },
+  "team_name": "Prodder",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b71"
+  },
+  "team_name": "Sub-Ex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b72"
+  },
+  "team_name": "Pannier",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b73"
+  },
+  "team_name": "Viva",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b74"
+  },
+  "team_name": "Mat Lam Tam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b75"
+  },
+  "team_name": "Flowdesk",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b76"
+  },
+  "team_name": "Tin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b77"
+  },
+  "team_name": "Tres-Zap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b78"
+  },
+  "team_name": "Prodder",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b79"
+  },
+  "team_name": "Zontrax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b7a"
+  },
+  "team_name": "Viva",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b7b"
+  },
+  "team_name": "Flowdesk",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b7c"
+  },
+  "team_name": "Greenlam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b7d"
+  },
+  "team_name": "Job",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b7e"
+  },
+  "team_name": "Daltfresh",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b7f"
+  },
+  "team_name": "Regrant",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b80"
+  },
+  "team_name": "Fixflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b81"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b82"
+  },
+  "team_name": "Bamity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b83"
+  },
+  "team_name": "Flowdesk",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b84"
+  },
+  "team_name": "Namfix",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b85"
+  },
+  "team_name": "Quo Lux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b86"
+  },
+  "team_name": "Mat Lam Tam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b87"
+  },
+  "team_name": "Span",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b88"
+  },
+  "team_name": "Flexidy",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b89"
+  },
+  "team_name": "Cardify",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b8a"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b8b"
+  },
+  "team_name": "Transcof",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b8c"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b8d"
+  },
+  "team_name": "Quo Lux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b8e"
+  },
+  "team_name": "Cardguard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b8f"
+  },
+  "team_name": "Konklux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b90"
+  },
+  "team_name": "Tampflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b91"
+  },
+  "team_name": "Tresom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b92"
+  },
+  "team_name": "Voltsillam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b93"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b94"
+  },
+  "team_name": "Tampflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b95"
+  },
+  "team_name": "Home Ing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b96"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b97"
+  },
+  "team_name": "Sub-Ex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b98"
+  },
+  "team_name": "Home Ing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b99"
+  },
+  "team_name": "Cardguard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b9a"
+  },
+  "team_name": "Alphazap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b9b"
+  },
+  "team_name": "Zoolab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b9c"
+  },
+  "team_name": "Tres-Zap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b9d"
+  },
+  "team_name": "Home Ing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b9e"
+  },
+  "team_name": "Tres-Zap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621b9f"
+  },
+  "team_name": "Bitchip",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ba0"
+  },
+  "team_name": "Subin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ba1"
+  },
+  "team_name": "Cardguard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ba2"
+  },
+  "team_name": "Gembucket",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ba3"
+  },
+  "team_name": "Veribet",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ba4"
+  },
+  "team_name": "Trippledex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ba5"
+  },
+  "team_name": "Job",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ba6"
+  },
+  "team_name": "Solarbreeze",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ba7"
+  },
+  "team_name": "Sub-Ex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ba8"
+  },
+  "team_name": "Stringtough",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621ba9"
+  },
+  "team_name": "Regrant",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621baa"
+  },
+  "team_name": "Bytecard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bab"
+  },
+  "team_name": "Zoolab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bac"
+  },
+  "team_name": "Fixflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bad"
+  },
+  "team_name": "Asoka",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bae"
+  },
+  "team_name": "Bitwolf",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621baf"
+  },
+  "team_name": "Aerified",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bb0"
+  },
+  "team_name": "Bytecard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bb1"
+  },
+  "team_name": "Quo Lux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bb2"
+  },
+  "team_name": "Greenlam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bb3"
+  },
+  "team_name": "Duobam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bb4"
+  },
+  "team_name": "Opela",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bb5"
+  },
+  "team_name": "Mat Lam Tam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bb6"
+  },
+  "team_name": "Stringtough",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bb7"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bb8"
+  },
+  "team_name": "Opela",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bb9"
+  },
+  "team_name": "Daltfresh",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bba"
+  },
+  "team_name": "Bamity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bbb"
+  },
+  "team_name": "Sub-Ex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bbc"
+  },
+  "team_name": "Solarbreeze",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bbd"
+  },
+  "team_name": "Andalax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bbe"
+  },
+  "team_name": "Fintone",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bbf"
+  },
+  "team_name": "Zathin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bc0"
+  },
+  "team_name": "Zamit",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bc1"
+  },
+  "team_name": "Stronghold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bc2"
+  },
+  "team_name": "Stringtough",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bc3"
+  },
+  "team_name": "Temp",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bc4"
+  },
+  "team_name": "Fix San",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bc5"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bc6"
+  },
+  "team_name": "Solarbreeze",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bc7"
+  },
+  "team_name": "Viva",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bc8"
+  },
+  "team_name": "Latlux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bc9"
+  },
+  "team_name": "Keylex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bca"
+  },
+  "team_name": "Konklab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bcb"
+  },
+  "team_name": "Tempsoft",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bcc"
+  },
+  "team_name": "Bamity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bcd"
+  },
+  "team_name": "Quo Lux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bce"
+  },
+  "team_name": "Stringtough",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bcf"
+  },
+  "team_name": "Tempsoft",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bd0"
+  },
+  "team_name": "Wrapsafe",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bd1"
+  },
+  "team_name": "Otcom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bd2"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bd3"
+  },
+  "team_name": "Asoka",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bd4"
+  },
+  "team_name": "Sub-Ex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bd5"
+  },
+  "team_name": "Stringtough",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bd6"
+  },
+  "team_name": "Subin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bd7"
+  },
+  "team_name": "Cardguard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bd8"
+  },
+  "team_name": "Aerified",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bd9"
+  },
+  "team_name": "Fintone",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bda"
+  },
+  "team_name": "Holdlamis",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bdb"
+  },
+  "team_name": "Konklux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bdc"
+  },
+  "team_name": "Redhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bdd"
+  },
+  "team_name": "Keylex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bde"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bdf"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621be0"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621be1"
+  },
+  "team_name": "Zamit",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621be2"
+  },
+  "team_name": "Ronstring",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621be3"
+  },
+  "team_name": "Cardguard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621be4"
+  },
+  "team_name": "Ronstring",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621be5"
+  },
+  "team_name": "Toughjoyfax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621be6"
+  },
+  "team_name": "Lotstring",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621be7"
+  },
+  "team_name": "Trippledex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621be8"
+  },
+  "team_name": "Zamit",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621be9"
+  },
+  "team_name": "Vagram",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bea"
+  },
+  "team_name": "Vagram",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621beb"
+  },
+  "team_name": "Cardify",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bec"
+  },
+  "team_name": "Transcof",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bed"
+  },
+  "team_name": "Home Ing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bee"
+  },
+  "team_name": "Bigtax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bef"
+  },
+  "team_name": "Bamity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bf0"
+  },
+  "team_name": "Fintone",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bf1"
+  },
+  "team_name": "Cardify",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bf2"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bf3"
+  },
+  "team_name": "Alpha",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bf4"
+  },
+  "team_name": "Transcof",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bf5"
+  },
+  "team_name": "Solarbreeze",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bf6"
+  },
+  "team_name": "Cardify",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bf7"
+  },
+  "team_name": "Y-find",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bf8"
+  },
+  "team_name": "Rank",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bf9"
+  },
+  "team_name": "Toughjoyfax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bfa"
+  },
+  "team_name": "Matsoft",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bfb"
+  },
+  "team_name": "Bitchip",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bfc"
+  },
+  "team_name": "Bigtax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bfd"
+  },
+  "team_name": "Treeflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bfe"
+  },
+  "team_name": "Toughjoyfax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621bff"
+  },
+  "team_name": "Konklab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c00"
+  },
+  "team_name": "Fix San",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c01"
+  },
+  "team_name": "Konklab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c02"
+  },
+  "team_name": "Tresom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c03"
+  },
+  "team_name": "Fintone",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c04"
+  },
+  "team_name": "Otcom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c05"
+  },
+  "team_name": "Bitchip",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c06"
+  },
+  "team_name": "Flexidy",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c07"
+  },
+  "team_name": "Keylex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c08"
+  },
+  "team_name": "Tin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c09"
+  },
+  "team_name": "Duobam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c0a"
+  },
+  "team_name": "Gembucket",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c0b"
+  },
+  "team_name": "Subin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c0c"
+  },
+  "team_name": "Job",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c0d"
+  },
+  "team_name": "Quo Lux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c0e"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c0f"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c10"
+  },
+  "team_name": "Namfix",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c11"
+  },
+  "team_name": "Tresom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c12"
+  },
+  "team_name": "Konklab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c13"
+  },
+  "team_name": "Tresom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c14"
+  },
+  "team_name": "Alphazap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c15"
+  },
+  "team_name": "Trippledex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c16"
+  },
+  "team_name": "Solarbreeze",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c17"
+  },
+  "team_name": "Flexidy",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c18"
+  },
+  "team_name": "Redhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c19"
+  },
+  "team_name": "Gembucket",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c1a"
+  },
+  "team_name": "Konklux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c1b"
+  },
+  "team_name": "Hatity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c1c"
+  },
+  "team_name": "Holdlamis",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c1d"
+  },
+  "team_name": "Andalax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c1e"
+  },
+  "team_name": "Redhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c1f"
+  },
+  "team_name": "Veribet",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c20"
+  },
+  "team_name": "Zathin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c21"
+  },
+  "team_name": "Bitwolf",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c22"
+  },
+  "team_name": "Aerified",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c23"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c24"
+  },
+  "team_name": "Stronghold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c25"
+  },
+  "team_name": "Sonair",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c26"
+  },
+  "team_name": "Toughjoyfax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c27"
+  },
+  "team_name": "Mat Lam Tam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c28"
+  },
+  "team_name": "Alpha",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c29"
+  },
+  "team_name": "Holdlamis",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c2a"
+  },
+  "team_name": "Hatity",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c2b"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c2c"
+  },
+  "team_name": "Vagram",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c2d"
+  },
+  "team_name": "Flexidy",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c2e"
+  },
+  "team_name": "Span",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c2f"
+  },
+  "team_name": "Namfix",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c30"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c31"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c32"
+  },
+  "team_name": "Bitchip",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c33"
+  },
+  "team_name": "Domainer",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c34"
+  },
+  "team_name": "Job",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c35"
+  },
+  "team_name": "Namfix",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c36"
+  },
+  "team_name": "Otcom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c37"
+  },
+  "team_name": "Cardify",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c38"
+  },
+  "team_name": "Biodex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c39"
+  },
+  "team_name": "Toughjoyfax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c3a"
+  },
+  "team_name": "Home Ing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c3b"
+  },
+  "team_name": "Pannier",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c3c"
+  },
+  "team_name": "Voyatouch",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c3d"
+  },
+  "team_name": "Biodex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c3e"
+  },
+  "team_name": "Greenlam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c3f"
+  },
+  "team_name": "Cookley",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c40"
+  },
+  "team_name": "Rank",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c41"
+  },
+  "team_name": "Y-find",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c42"
+  },
+  "team_name": "Opela",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c43"
+  },
+  "team_name": "Home Ing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c44"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c45"
+  },
+  "team_name": "Regrant",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c46"
+  },
+  "team_name": "Transcof",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c47"
+  },
+  "team_name": "Veribet",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c48"
+  },
+  "team_name": "Bitwolf",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c49"
+  },
+  "team_name": "Viva",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c4a"
+  },
+  "team_name": "Bitchip",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c4b"
+  },
+  "team_name": "Konklab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c4c"
+  },
+  "team_name": "Toughjoyfax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c4d"
+  },
+  "team_name": "Sonsing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c4e"
+  },
+  "team_name": "Opela",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c4f"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c50"
+  },
+  "team_name": "Holdlamis",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c51"
+  },
+  "team_name": "Y-Solowarm",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c52"
+  },
+  "team_name": "Prodder",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c53"
+  },
+  "team_name": "Tresom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c54"
+  },
+  "team_name": "Tresom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c55"
+  },
+  "team_name": "Y-Solowarm",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c56"
+  },
+  "team_name": "Namfix",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c57"
+  },
+  "team_name": "Fintone",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c58"
+  },
+  "team_name": "Konklab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c59"
+  },
+  "team_name": "Temp",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c5a"
+  },
+  "team_name": "Alpha",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c5b"
+  },
+  "team_name": "Fixflex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c5c"
+  },
+  "team_name": "Overhold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c5d"
+  },
+  "team_name": "Home Ing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c5e"
+  },
+  "team_name": "Vagram",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c5f"
+  },
+  "team_name": "Bitwolf",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c60"
+  },
+  "team_name": "Tin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c61"
+  },
+  "team_name": "Konklux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c62"
+  },
+  "team_name": "Konklab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c63"
+  },
+  "team_name": "Aerified",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c64"
+  },
+  "team_name": "Konklab",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c65"
+  },
+  "team_name": "Fix San",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c66"
+  },
+  "team_name": "Wrapsafe",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c67"
+  },
+  "team_name": "Daltfresh",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c68"
+  },
+  "team_name": "Trippledex",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c69"
+  },
+  "team_name": "Stronghold",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c6a"
+  },
+  "team_name": "Bytecard",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c6b"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c6c"
+  },
+  "team_name": "Tin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c6d"
+  },
+  "team_name": "Otcom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c6e"
+  },
+  "team_name": "Voyatouch",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c6f"
+  },
+  "team_name": "Cookley",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c70"
+  },
+  "team_name": "Andalax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c71"
+  },
+  "team_name": "Fintone",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c72"
+  },
+  "team_name": "Tresom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c73"
+  },
+  "team_name": "Tresom",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c74"
+  },
+  "team_name": "Latlux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c75"
+  },
+  "team_name": "Wrapsafe",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c76"
+  },
+  "team_name": "Job",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c77"
+  },
+  "team_name": "Holdlamis",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c78"
+  },
+  "team_name": "Ventosanzap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c79"
+  },
+  "team_name": "Daltfresh",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c7a"
+  },
+  "team_name": "Voltsillam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c7b"
+  },
+  "team_name": "Tempsoft",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c7c"
+  },
+  "team_name": "Matsoft",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c7d"
+  },
+  "team_name": "Temp",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c7e"
+  },
+  "team_name": "Zathin",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c7f"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c80"
+  },
+  "team_name": "Viva",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c81"
+  },
+  "team_name": "Bitchip",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c82"
+  },
+  "team_name": "Lotlux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c83"
+  },
+  "team_name": "Bitchip",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c84"
+  },
+  "team_name": "Fintone",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c85"
+  },
+  "team_name": "Bigtax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c86"
+  },
+  "team_name": "Opela",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c87"
+  },
+  "team_name": "Fix San",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c88"
+  },
+  "team_name": "Cookley",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c89"
+  },
+  "team_name": "Stringtough",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c8a"
+  },
+  "team_name": "Wrapsafe",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c8b"
+  },
+  "team_name": "Voyatouch",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c8c"
+  },
+  "team_name": "Voltsillam",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c8d"
+  },
+  "team_name": "Zontrax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c8e"
+  },
+  "team_name": "Home Ing",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c8f"
+  },
+  "team_name": "Bitwolf",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c90"
+  },
+  "team_name": "Temp",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c91"
+  },
+  "team_name": "It",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c92"
+  },
+  "team_name": "Tres-Zap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c93"
+  },
+  "team_name": "Zontrax",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c94"
+  },
+  "team_name": "Veribet",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c95"
+  },
+  "team_name": "Latlux",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c96"
+  },
+  "team_name": "Stim",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c97"
+  },
+  "team_name": "Pannier",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c98"
+  },
+  "team_name": "Ventosanzap",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c99"
+  },
+  "team_name": "Alpha",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c9a"
+  },
+  "team_name": "Asoka",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "5fd4d1e1a9e43c22bc621c9b"
+  },
+  "team_name": "Zaam-Dox",
+  "wins": 0,
+  "losses": 0,
+  "ties": 0,
+  "score": 0
+}]

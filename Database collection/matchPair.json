@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5fd5a402a76134458d1dc344"
+  },
+  "teamOneId": "5fd4d1e1a9e43c22bc621aa8",
+  "teamTwoId": "5fd4d1e1a9e43c22bc621aad",
+  "tie": true,
+  "_class": "com.leaderboardapp.model.MatchPair"
+},{
+  "_id": {
+    "$oid": "5fd5a435a76134458d1dc345"
+  },
+  "teamOneId": "5fd4d1e1a9e43c22bc621aa9",
+  "teamTwoId": "5fd4d1e1a9e43c22bc621aaa",
+  "winId": "5fd4d1e1a9e43c22bc621aa9",
+  "loseId": "5fd4d1e1a9e43c22bc621aaa",
+  "tie": false,
+  "_class": "com.leaderboardapp.model.MatchPair"
+},{
+  "_id": {
+    "$oid": "5fd5b6444bbc1d6b1ebed2db"
+  },
+  "teamOneId": "5fd4d1e1a9e43c22bc621aba",
+  "teamTwoId": "5fd4d1e1a9e43c22bc621ab3",
+  "winId": "5fd4d1e1a9e43c22bc621ab3",
+  "loseId": "5fd4d1e1a9e43c22bc621aba",
+  "tie": false,
+  "_class": "com.leaderboardapp.model.MatchPair"
+},{
+  "_id": {
+    "$oid": "5fd5b6564bbc1d6b1ebed2dc"
+  },
+  "teamOneId": "5fd4d1e1a9e43c22bc621ab3",
+  "teamTwoId": "5fd4d1e1a9e43c22bc621aba",
+  "tie": true,
+  "_class": "com.leaderboardapp.model.MatchPair"
+},{
+  "_id": {
+    "$oid": "5fd5b6784bbc1d6b1ebed2dd"
+  },
+  "teamOneId": "5fd4d1e1a9e43c22bc621aa9",
+  "teamTwoId": "5fd4d1e1a9e43c22bc621aaa",
+  "winId": "5fd4d1e1a9e43c22bc621aa9",
+  "loseId": "5fd4d1e1a9e43c22bc621aaa",
+  "tie": false,
+  "_class": "com.leaderboardapp.model.MatchPair"
+},{
+  "_id": {
+    "$oid": "5fd5b6e84bbc1d6b1ebed2de"
+  },
+  "teamOneId": "5fd4d1e1a9e43c22bc621aa9",
+  "teamTwoId": "5fd4d1e1a9e43c22bc621aad",
+  "tie": true,
+  "_class": "com.leaderboardapp.model.MatchPair"
+},{
+  "_id": {
+    "$oid": "5fd5b7454bbc1d6b1ebed2df"
+  },
+  "teamOneId": "5fd4d1e1a9e43c22bc621aae",
+  "teamTwoId": "5fd4d1e1a9e43c22bc621aba",
+  "winId": "5fd4d1e1a9e43c22bc621aae",
+  "loseId": "5fd4d1e1a9e43c22bc621aba",
+  "tie": false,
+  "_class": "com.leaderboardapp.model.MatchPair"
+}]
