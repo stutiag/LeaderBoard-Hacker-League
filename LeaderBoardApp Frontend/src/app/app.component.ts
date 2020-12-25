@@ -19,13 +19,15 @@ checkedTeam:Team;
   arrayTeams:Team[]=[];
   checkedTeams=[];
   selectedTeams: Set<any>;
+  myArray=[];
   checkWin=false;
   isPlayMatch=false;
   flag=0;
   searchtext:string;
-
-
-
+startIndex=0;
+pos=0;
+endIndex=5;
+arr=new Array(10);
 
   constructor(private _teamService:TeamService){
 this.selectedTeams=new Set<any>();
@@ -42,9 +44,15 @@ this._teamService.getTeamsPlayed().subscribe(data=>{
   {
     this.selectedTeams.add(data[i]);
 }
+
 console.log(this.selectedTeams);
+this.myArray=Array.from(this.selectedTeams.values());
 }
 )
+  }
+  getArrayFromNumber(length)
+  {
+    return new Array(length/5);
   }
   match()
   {
@@ -67,6 +75,10 @@ if(this.flag==0)
 {
 this.selectedTeams.add(this.selectedTeam);
   console.log(this.selectedTeams);
+  this.myArray=Array.from(this.selectedTeams.values());
+  this.arr.length=this.myArray.length/5;
+
+
 }
 this.flag=0;
   }
@@ -123,6 +135,16 @@ this._teamService.matchWin(this.playMatchPair).subscribe(res=>{
 })
 location.reload();
 }
+updateIndex(pageIndex)
+{
+  this.startIndex=pageIndex*5;
+  this.endIndex=this.startIndex+5;
+}
+updatePos()
+{
+  console.log(this.pos);
+  this.pos=this.pos+1;
 
+}
 
 }

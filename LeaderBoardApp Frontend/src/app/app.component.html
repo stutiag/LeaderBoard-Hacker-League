@@ -27,11 +27,11 @@
 </tr>
 </thead>
 <tbody>
-<tr *ngFor="let team of selectedTeams ;let i = index">
+<tr *ngFor="let team of myArray  | slice:startIndex:endIndex;let i=index" >
   <td class="text-center" *ngIf=isMatch> 
     <input type="checkbox"  ngModel (ngModelChange)="changeHandler(team,$event)">
 </td>
-  <td>{{i+1}}</td>
+  <td>{{startIndex+i+1}}</td>
   <td>{{team.team_name}}</td>
   <td>{{team.wins}}</td>
   <td>{{team.losses}}</td>
@@ -41,6 +41,22 @@
 </tr>
 </tbody>
     </table>
+      <ul class="pagination">
+        <li class="page-item">
+          <a class="page-link" href="#" aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+            <span class="sr-only">Previous</span>
+          </a>
+        </li>
+        <li *ngFor="let i of arr;let in=index"class="page-item" (click)=updateIndex(in)><a class="page-link" href="#">{{in+1}}</a></li>
+        
+        <li class="page-item">
+          <a class="page-link" href="#" aria-label="Next">
+            <span aria-hidden="true">&raquo;</span>
+            <span class="sr-only">Next</span>
+          </a>
+        </li>
+      </ul>
     <div *ngIf=isMatch>
       <button *ngIf=checkWin (click)="playMatch()" class="btn btn-info">PlayMatch</button>
     </div>
